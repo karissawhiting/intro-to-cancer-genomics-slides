@@ -4,7 +4,7 @@ Slides from "Introduction to Cancer Genomics & MSK-IMPACT" (GEMS Training, 2023-
 
 ## Contents
 
-- `GEMS Intro to Cancer Genomics  & IMPACT data 2023-06-01.pdf` — training slide deck
+- `Intro to Cancer Genomics 2023-06-01.pdf` — training slide deck (renamed from `GEMS Intro to Cancer Genomics & IMPACT data 2023-06-01.pdf`; content is unchanged and identical to the file in `GEMS Intro to Genomics and IMPACT`)
 
 ## Agenda
 
