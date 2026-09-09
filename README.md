@@ -1,4 +1,4 @@
-# GEMS Intro to Cancer Genomics and IMPACT Slides
+# Intro to Cancer Genomics Slides
 
 Slides from "Introduction to Cancer Genomics & MSK-IMPACT" (GEMS Training, 2023-05-30), presented by Karissa Whiting (slide co-author: Esther Drill).
 
